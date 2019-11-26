@@ -1,0 +1,19 @@
+.box {
+    column-count: 3;
+    column-rule-style: double;
+    margin-bottom: 75px;
+}
+
+
+app-equipment {
+    display: inline-block;
+}
+
+
+
+
+
+
+
+
+

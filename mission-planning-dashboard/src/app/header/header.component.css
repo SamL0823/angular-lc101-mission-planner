@@ -1,0 +1,21 @@
+div {
+    border-block-style: solid;
+}
+
+h1 {
+    margin-right: 200px;
+}
+
+h2 {
+    margin: auto;
+}
+.box {
+    display: flex;
+    padding: 10px;
+    background-color: black;
+    color: white;
+} 
+
+#rocket {
+    text-align: right;
+}
